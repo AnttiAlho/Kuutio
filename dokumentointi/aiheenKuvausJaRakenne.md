@@ -1,5 +1,7 @@
 aihe: rubiikin kuutio peli
 
+Käyttäjä:pelaaja
+
 peli:
 -aluksi peli sekoittaa kuution
 -saat katsella kuutiota ennen pelin alkua
